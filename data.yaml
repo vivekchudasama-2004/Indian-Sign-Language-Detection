@@ -1,0 +1,7 @@
+train: c:/Users/prafu/Downloads/Indian-Sign-Language.v8i.yolov11/train/images
+val: c:/Users/prafu/Downloads/Indian-Sign-Language.v8i.yolov11/valid/images
+test: c:/Users/prafu/Downloads/Indian-Sign-Language.v8i.yolov11/test/images
+
+nc: 32
+names: ['Bad', 'Brother', 'Father', 'Food', 'Friend', 'Good', 'Hello', 'Help', 'House', 'I', 'Indian', 'Loud', 'Mummy', 'Namaste', 'Name', 'No', 'Place', 'Please', 'Quiet', 'Sleeping', 'Sorry', 'Strong', 'Thank-you', 'Time', 'Today', 'Water', 'What', 'Yes', 'Your', 'language', 'sign', 'you']
+
